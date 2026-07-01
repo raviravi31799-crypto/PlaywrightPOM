@@ -1,0 +1,16 @@
+{
+    "validlogin":{
+        "username":"Admin",
+        "password":"admin123"
+    },
+    "invalidlogin":{
+        "username":"Admin123",
+        "password":"wrong"
+    },
+    
+    "validuser":{
+        "username":"Admin@5",
+        "password":"12345",
+        "successmsg":"Welcome"
+    }
+}
